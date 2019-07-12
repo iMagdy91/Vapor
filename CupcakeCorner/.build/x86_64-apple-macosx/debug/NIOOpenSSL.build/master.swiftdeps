@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "4d0482138e4d2d6388f229047720a5ee"
+build_time: [1562761736, 485935000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1562761716, 893866784]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/IdentityVerification.swift": [1562761716, 894079200]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1562761716, 894222621]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1562761716, 894497975]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1562761716, 894633272]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/PosixPort.swift": [1562761716, 894747458]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLCertificate.swift": [1562761716, 895015164]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLConnection.swift": [1562761716, 895215584]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLContext.swift": [1562761716, 895433981]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLErrors.swift": [1562761716, 895601952]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLInit.swift": [1562761716, 895704359]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1562761716, 895851657]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1562761716, 895968787]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1562761716, 896116370]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPublicKey.swift": [1562761716, 896228307]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": [1562761716, 896343057]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/TLSConfiguration.swift": [1562761716, 896498128]

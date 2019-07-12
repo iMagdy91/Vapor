@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "fda4b244be742b75817760ecb1ab9cea"
+build_time: [1562761734, 870518000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/Async+NIO.swift": [1562761715, 7269870]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/AsyncError.swift": [1562761715, 7507509]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/Collection+Future.swift": [1562761715, 7648070]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/Deprecated.swift": [1562761715, 7819471]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/Exports.swift": [1562761715, 7921111]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+DoCatch.swift": [1562761715, 8079310]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+Flatten.swift": [1562761715, 8245220]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+Global.swift": [1562761715, 8355712]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+Map.swift": [1562761715, 8478245]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+Transform.swift": [1562761715, 8593137]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+Variadic.swift": [1562761715, 8762786]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/Future+Void.swift": [1562761715, 8927019]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/FutureType.swift": [1562761715, 9086540]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/QueueHandler.swift": [1562761715, 9253392]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Async/Worker.swift": [1562761715, 9397838]

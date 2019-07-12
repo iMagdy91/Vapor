@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "9b099c5bb73cb4278b6c2fcc603ee19c"
+build_time: [1562761723, 693745000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/COperatingSystem/libc.swift": [1562761715, 11364587]

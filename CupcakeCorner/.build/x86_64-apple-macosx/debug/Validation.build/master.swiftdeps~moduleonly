@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "28544d741a3d92cecffdbb5820bbd794"
+build_time: [1562761740, 179986000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Exports.swift": [1562761715, 561144600]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validatable.swift": [1562761715, 561347216]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/ValidationError.swift": [1562761715, 561484155]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validations.swift": [1562761715, 561642543]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validator.swift": [1562761715, 561786590]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/ValidatorType.swift": [1562761715, 561913960]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/AndValidator.swift": [1562761715, 562440370]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/CharacterSetValidator.swift": [1562761715, 562664225]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/CountValidator.swift": [1562761715, 563012181]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/EmailValidator.swift": [1562761715, 563246100]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/EmptyValidator.swift": [1562761715, 563377865]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/InValidator.swift": [1562761715, 563493154]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/NilIgnoringValidator.swift": [1562761715, 563600445]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/NilValidator.swift": [1562761715, 563715130]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/NotValidator.swift": [1562761715, 563840332]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/OrValidator.swift": [1562761715, 564054685]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/RangeValidator.swift": [1562761715, 564319317]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/validation/Sources/Validation/Validators/URLValidator.swift": [1562761715, 564434522]

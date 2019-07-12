@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "06b2fee9d4f66df01e26cd56633df4ca"
+build_time: [1562761723, 693785000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/Heap.swift": [1562761714, 616952685]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/PriorityQueue.swift": [1562761714, 617058511]

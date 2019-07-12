@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "d2818b83fc7b26433a740659e988a447"
+build_time: [1562761740, 182480000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/BCrypt/BCryptDigest.swift": [1562761716, 474349840]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1562761716, 474566483]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1562761716, 474697203]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Cipher/Cipher.swift": [1562761716, 474865199]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1562761716, 474987111]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1562761716, 475157261]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1562761716, 475466747]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Digest/Digest.swift": [1562761716, 475672302]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Digest/DigestAlgorithm.swift": [1562761716, 475791780]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/MAC/HMAC.swift": [1562761716, 475986754]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/MAC/OTP.swift": [1562761716, 476111366]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/RSA/RSA.swift": [1562761716, 476372810]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/RSA/RSAKey.swift": [1562761716, 476642631]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/RSA/RSAPadding.swift": [1562761716, 476797010]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Random/CryptoRandom.swift": [1562761716, 476969120]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Utilities/Base32.swift": [1562761716, 477228390]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Utilities/CryptoError.swift": [1562761716, 477335636]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Utilities/Deprecated.swift": [1562761716, 477420910]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/crypto/Sources/Crypto/Utilities/Exports.swift": [1562761716, 477518066]

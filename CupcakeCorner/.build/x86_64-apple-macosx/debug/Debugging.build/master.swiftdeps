@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "aada3267ff34787cb268e0cb8a461754"
+build_time: [1562761723, 693912000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Debugging/Debuggable.swift": [1562761715, 17289081]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Debugging/Demangler.swift": [1562761715, 17405508]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Debugging/SourceLocation.swift": [1562761715, 17522278]

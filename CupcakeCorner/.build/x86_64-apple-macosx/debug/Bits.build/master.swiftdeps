@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "2087d67dd0796bcf5acdb3de9db7a667"
+build_time: [1562761734, 870893000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Bits/BitsError.swift": [1562761715, 9552077]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Bits/Byte+Alphabet.swift": [1562761715, 9671288]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Bits/Byte+Control.swift": [1562761715, 9800122]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Bits/Byte+Digit.swift": [1562761715, 9946505]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1562761715, 10221561]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Bits/ByteBuffer+peek.swift": [1562761715, 10348392]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Bits/ByteBuffer+require.swift": [1562761715, 10505313]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Bits/ByteBuffer+string.swift": [1562761715, 10646079]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Bits/Bytes.swift": [1562761715, 10748476]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Bits/Data+Bytes.swift": [1562761715, 10852709]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Bits/Data+Strings.swift": [1562761715, 11060351]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/core/Sources/Bits/Deprecated.swift": [1562761715, 11171858]

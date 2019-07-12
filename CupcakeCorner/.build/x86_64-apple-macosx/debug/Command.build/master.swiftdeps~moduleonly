@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "9783a3bd55dd36c4a2a6c7e9de0b978f"
+build_time: [1562761749, 945989000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Base/CommandOption.swift": [1562761715, 768057581]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Base/CommandRunnable.swift": [1562761715, 768229825]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Command/Command.swift": [1562761715, 768455958]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Command/CommandArgument.swift": [1562761715, 768593102]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Config/CommandConfig.swift": [1562761715, 768789376]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Config/Commands.swift": [1562761715, 768942016]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Group/BasicCommandGroup.swift": [1562761715, 769129358]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Group/CommandGroup.swift": [1562761715, 769292853]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Run/CommandContext.swift": [1562761715, 769579269]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Run/CommandInput.swift": [1562761715, 769786524]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Run/Console+Run.swift": [1562761715, 769928079]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Run/Output+Autocomplete.swift": [1562761715, 770063640]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Run/Output+Help.swift": [1562761715, 770189573]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Utilities/CommandError.swift": [1562761715, 770377065]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Utilities/Exports.swift": [1562761715, 770493195]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Command/Utilities/Utilities.swift": [1562761715, 770718933]

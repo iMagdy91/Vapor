@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "93b9486a5f7280c7292f6ebc3ccbcbce"
+build_time: [1562774906, 737227000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/Sources/App/Cupcake.swift": [9223372036, 854775807]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/Sources/App/boot.swift": [1562761643, 424649]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/Sources/App/configure.swift": [1562766934, 43853180]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/Sources/App/routes.swift": [1562772335, 138504691]

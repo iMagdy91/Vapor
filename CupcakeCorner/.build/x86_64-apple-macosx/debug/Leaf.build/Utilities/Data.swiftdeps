@@ -1,0 +1,128 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["10Foundation4DataV", ""]
+- ["10Foundation4DataV", "empty"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Data"
+depends-member:
+- ["4Core22AnyReflectionDecodableP", "Data"]
+- ["4Core22AnyReflectionDecodableP", "init"]
+- ["SK", "Data"]
+- ["SK", "init"]
+- ["Sl", "Data"]
+- ["Sl", "init"]
+- ["10Foundation15ContiguousBytesP", "Data"]
+- ["10Foundation15ContiguousBytesP", "init"]
+- ["3NIO20ContiguousCollectionP", "Data"]
+- ["3NIO20ContiguousCollectionP", "init"]
+- ["s28CustomDebugStringConvertibleP", "Data"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s17CustomReflectableP", "Data"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "Data"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["10Foundation4DataV", "Data"]
+- ["10Foundation4DataV", "empty"]
+- ["10Foundation4DataV", "init"]
+- ["10Foundation12DataProtocolP", "Data"]
+- ["10Foundation12DataProtocolP", "init"]
+- ["Se", "Data"]
+- ["Se", "init"]
+- ["SE", "Data"]
+- ["SE", "init"]
+- ["SQ", "Data"]
+- ["SQ", "init"]
+- ["SH", "Data"]
+- ["SH", "init"]
+- ["4Core23LosslessDataConvertibleP", "Data"]
+- ["4Core23LosslessDataConvertibleP", "init"]
+- ["SM", "Data"]
+- ["SM", "init"]
+- ["10Foundation19MutableDataProtocolP", "Data"]
+- ["10Foundation19MutableDataProtocolP", "init"]
+- ["Sk", "Data"]
+- ["Sk", "init"]
+- ["Sm", "Data"]
+- ["Sm", "init"]
+- ["10Foundation20ReferenceConvertibleP", "Data"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- ["4Core19ReflectionDecodableP", "Data"]
+- ["4Core19ReflectionDecodableP", "init"]
+- ["ST", "Data"]
+- ["ST", "init"]
+- ["11TemplateKit0A17DataRepresentableP", "Data"]
+- ["11TemplateKit0A17DataRepresentableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "Data"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- "4Core22AnyReflectionDecodableP"
+- "SK"
+- "Sl"
+- "10Foundation15ContiguousBytesP"
+- "3NIO20ContiguousCollectionP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation4DataV"
+- "10Foundation12DataProtocolP"
+- "Se"
+- "SE"
+- "SQ"
+- "SH"
+- "4Core23LosslessDataConvertibleP"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- "Sk"
+- "Sm"
+- "10Foundation20ReferenceConvertibleP"
+- "4Core19ReflectionDecodableP"
+- "ST"
+- "11TemplateKit0A17DataRepresentableP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIO.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Async.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Service.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Core.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/COperatingSystem.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Bits.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/TemplateKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOZlib.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIODarwin.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOLinux.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-zlib-support/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d83227e9a3a859a0319ffd7bff74ecd0"

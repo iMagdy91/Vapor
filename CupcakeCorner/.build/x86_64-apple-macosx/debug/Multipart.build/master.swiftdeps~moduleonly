@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "73c9c484227e66aed041057b13c74709"
+build_time: [1562761740, 180118000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/Exports.swift": [1562761715, 918810433]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/FormDataDecoder.swift": [1562761715, 918972674]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/FormDataEncoder.swift": [1562761715, 919109275]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/MultipartError.swift": [1562761715, 919417998]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/MultipartParser.swift": [1562761715, 919823293]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/MultipartPart.swift": [1562761715, 920083315]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/MultipartPartConvertible.swift": [1562761715, 920344138]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/multipart/Sources/Multipart/MultipartSerializer.swift": [1562761715, 920458834]

@@ -1,0 +1,141 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LeafProvider"
+provides-nominal:
+- "4Leaf0A8ProviderC"
+provides-member:
+- ["4Leaf0A8ProviderC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "+"
+- "Container"
+- !private "DirectoryConfig"
+- "Future"
+- !private "LeafConfig"
+- "LeafProvider"
+- !private "LeafRenderer"
+- !private "LeafTagConfig"
+- "Provider"
+- "Services"
+- "StringLiteralType"
+- !private "TemplateRenderer"
+- !private "ViewRenderer"
+- "Void"
+depends-member:
+- !private ["5Async11BasicWorkerP", "environment"]
+- !private ["5Async11BasicWorkerP", "make"]
+- !private ["7Service9ContainerP", "environment"]
+- !private ["7Service9ContainerP", "make"]
+- !private ["s23CustomStringConvertibleP", "register"]
+- !private ["4Core15DirectoryConfigV", "workDir"]
+- !private ["SE", "done"]
+- !private ["7Service11EnvironmentV", "development"]
+- !private ["SQ", "development"]
+- !private ["SQ", "done"]
+- !private ["3NIO15EventLoopFutureC", "done"]
+- !private ["3NIO14EventLoopGroupP", "environment"]
+- !private ["3NIO14EventLoopGroupP", "make"]
+- !private ["5Async10FutureTypeP", "done"]
+- !private ["4Leaf0A6ConfigV", "deinit"]
+- !private ["4Leaf0A6ConfigV", "init"]
+- !private ["4Leaf0A6ConfigV", "init"]
+- ["4Leaf0A8ProviderC", "Container"]
+- !private ["4Leaf0A8ProviderC", "DirectoryConfig"]
+- ["4Leaf0A8ProviderC", "Future"]
+- !private ["4Leaf0A8ProviderC", "LeafConfig"]
+- !private ["4Leaf0A8ProviderC", "LeafRenderer"]
+- !private ["4Leaf0A8ProviderC", "LeafTagConfig"]
+- ["4Leaf0A8ProviderC", "Services"]
+- !private ["4Leaf0A8ProviderC", "TemplateRenderer"]
+- !private ["4Leaf0A8ProviderC", "ViewRenderer"]
+- ["4Leaf0A8ProviderC", "Void"]
+- ["4Leaf0A8ProviderC", "deinit"]
+- ["4Leaf0A8ProviderC", "didBoot"]
+- ["4Leaf0A8ProviderC", "init"]
+- ["4Leaf0A8ProviderC", "register"]
+- ["4Leaf0A8ProviderC", "willBoot"]
+- !private ["4Leaf0A8RendererC", "deinit"]
+- !private ["4Leaf0A8RendererC", "init"]
+- !private ["4Leaf0A8RendererC", "init"]
+- !private ["4Leaf0A9TagConfigV", "default"]
+- !private ["4Leaf0A9TagConfigV", "deinit"]
+- !private ["7Service8ProviderP", "DirectoryConfig"]
+- !private ["7Service8ProviderP", "TemplateRenderer"]
+- !private ["7Service8ProviderP", "ViewRenderer"]
+- ["7Service8ProviderP", ""]
+- ["7Service8ProviderP", "didBoot"]
+- ["7Service8ProviderP", "register"]
+- ["7Service8ProviderP", "willBoot"]
+- !private ["7ServiceAAP", "default"]
+- !private ["7ServiceAAP", "init"]
+- !private ["7ServiceAAP", "init"]
+- !private ["7Service8ServicesV", "register"]
+- !private ["11TemplateKit0A8RendererP", "init"]
+- !private ["11TemplateKit0A8RendererP", "init"]
+- !private ["11TemplateKit12ViewRendererP", "init"]
+- !private ["11TemplateKit12ViewRendererP", "init"]
+depends-nominal:
+- !private "5Async11BasicWorkerP"
+- !private "7Service9ContainerP"
+- !private "s23CustomStringConvertibleP"
+- !private "4Core15DirectoryConfigV"
+- !private "SE"
+- !private "7Service11EnvironmentV"
+- !private "SQ"
+- !private "3NIO15EventLoopFutureC"
+- !private "3NIO14EventLoopGroupP"
+- !private "5Async10FutureTypeP"
+- !private "4Leaf0A6ConfigV"
+- "4Leaf0A8ProviderC"
+- !private "4Leaf0A8RendererC"
+- !private "4Leaf0A9TagConfigV"
+- "7Service8ProviderP"
+- !private "7ServiceAAP"
+- !private "7Service8ServicesV"
+- !private "11TemplateKit0A8RendererP"
+- !private "11TemplateKit12ViewRendererP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIO.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Async.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Service.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Core.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/COperatingSystem.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Bits.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/TemplateKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOZlib.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIODarwin.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/CNIOLinux.build/module.modulemap"
+- "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-zlib-support/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "bc577f370e9a25a5e88e4d2b40c115f4"

@@ -1,0 +1,107 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/master.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/ByteBufferBIO.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/ByteBufferBIO.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/ByteBufferBIO.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/ByteBufferBIO~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/ByteBufferBIO.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/IdentityVerification.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/IdentityVerification.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/IdentityVerification.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/IdentityVerification~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/IdentityVerification.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/OpenSSLClientHandler.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/OpenSSLClientHandler.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/OpenSSLClientHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/OpenSSLClientHandler.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLHandler.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/OpenSSLHandler.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/OpenSSLHandler.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/OpenSSLHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/OpenSSLHandler.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/OpenSSLServerHandler.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/OpenSSLServerHandler.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/OpenSSLServerHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/OpenSSLServerHandler.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/PosixPort.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/PosixPort.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/PosixPort.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/PosixPort~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/PosixPort.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLCertificate.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLCertificate.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLCertificate.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLCertificate~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLCertificate.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLConnection.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLConnection.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLConnection.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLConnection~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLConnection.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLContext.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLContext.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLContext.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLContext.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLErrors.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLErrors.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLErrors.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLErrors~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLErrors.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLInit.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLInit.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLInit.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLInit~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLInit.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPKCS12Bundle.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPKCS12Bundle.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPKCS12Bundle~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPKCS12Bundle.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPointerTricks.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPointerTricks.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPointerTricks.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPointerTricks~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPointerTricks.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPrivateKey.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPrivateKey.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPrivateKey.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPrivateKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPrivateKey.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPublicKey.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPublicKey.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPublicKey.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPublicKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLPublicKey.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLVerificationCallbacks.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLVerificationCallbacks.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLVerificationCallbacks~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/SSLVerificationCallbacks.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/TLSConfiguration.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/TLSConfiguration.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/TLSConfiguration.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/TLSConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/NIOOpenSSL.build/TLSConfiguration.swiftdeps"
+  }
+}

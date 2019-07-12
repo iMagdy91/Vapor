@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "c8e5d5a483bee462e1c31e4e7c182dee"
+build_time: [1562774904, 5382000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/Exports.swift": [1562774898, 791721158]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/FluentSQLQuery.swift": [1562774898, 791862113]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/FluentSQLSchema.swift": [1562774898, 791980452]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/QueryBuilder+GroupBy.swift": [1562774898, 792089777]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/SQL+Contains.swift": [1562774898, 792192465]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/SQL+JoinSupporting.swift": [1562774898, 792300833]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/SQL+QuerySupporting.swift": [1562774898, 792437975]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/SQL+SchemaSupporting.swift": [1562774898, 792575001]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent/Sources/FluentSQL/SchemaBuilder+Field.swift": [1562774898, 792677470]

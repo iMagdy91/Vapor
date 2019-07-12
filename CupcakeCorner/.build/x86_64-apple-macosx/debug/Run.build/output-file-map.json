@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/Sources/Run/main.swift": {
+    "dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Run.build/main.d",
+    "object": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/x86_64-apple-macosx/debug/Run.build/main.swiftdeps"
+  }
+}

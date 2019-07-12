@@ -1,0 +1,4 @@
+module CNIOHTTPParser {
+    umbrella header "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+    export *
+}

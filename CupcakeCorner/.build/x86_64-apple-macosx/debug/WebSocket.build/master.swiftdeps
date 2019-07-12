@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "d68b4efddd84a7ee9851a57e0ab2eb03"
+build_time: [1562761749, 872078000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/Exports.swift": [1562761717, 537419188]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Client.swift": [1562761717, 537573602]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Server.swift": [1562761717, 537727731]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocket.swift": [1562761717, 537893370]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocketFrameSequence.swift": [1562761717, 538236337]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/websocket/Sources/WebSocket/WebSocketHandler.swift": [1562761717, 538531153]

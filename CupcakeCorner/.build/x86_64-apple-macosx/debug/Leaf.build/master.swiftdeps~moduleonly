@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "bfc57a3a7f4080a87fd78d74a0dffb5b"
+build_time: [1562766371, 598053000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Parser/Byte+Leaf.swift": [1562766370, 806728622]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Parser/LeafParser.swift": [1562766370, 807318891]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Renderer/LeafRenderer.swift": [1562766370, 807622395]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Service/LeafConfig.swift": [1562766370, 807799507]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Service/LeafProvider.swift": [1562766370, 807938251]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Service/LeafTagConfig.swift": [1562766370, 808062746]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Utilities/Data.swift": [1562766370, 808240497]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/leaf/Sources/Leaf/Utilities/Exports.swift": [1562766370, 808350410]

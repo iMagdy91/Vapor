@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "8b3699e1dc01e570bc5b17b2d40cca0a"
+build_time: [1562774905, 802495000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/Exports.swift": [1562774898, 340157404]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteError.swift": [1562774898, 340265808]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteProvider.swift": [1562774898, 340376525]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteQuery.swift": [1562774898, 340488516]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteSchema.swift": [1562774898, 340745492]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+JoinSupporting.swift": [1562774898, 340909134]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+MigrationSupporting.swift": [1562774898, 341011269]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+QuerySupporting.swift": [1562774898, 341198795]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+SchemaSupporting.swift": [1562774898, 341439924]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+TransactionSupporting.swift": [1562774898, 341631263]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteModels.swift": [1562774898, 341975569]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteTypes.swift": [1562774898, 342368825]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "59660d94e483f5d4bc08611eb61ccb93"
+build_time: [1562761731, 203321000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1562761714, 611977698]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1562761714, 612212809]

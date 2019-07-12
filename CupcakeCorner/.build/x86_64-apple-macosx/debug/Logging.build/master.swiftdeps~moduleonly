@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "14269ccff2a38533355582ef8c156820"
+build_time: [1562761740, 179987000]
+inputs:
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Logging/Exports.swift": [1562761715, 775381842]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Logging/LogLevel.swift": [1562761715, 775522501]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Logging/Logger.swift": [1562761715, 775655102]
+  "/Users/mhassanin/Developer/CupcakeVapor/CupcakeCorner/.build/checkouts/console/Sources/Logging/PrintLogger.swift": [1562761715, 775891426]
